@@ -1,0 +1,9 @@
+# Ignore specific .py file
+config.py
+
+
+# Ignore folders
+__pycache__/
+venv/
+
+
